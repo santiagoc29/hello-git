@@ -1,1 +1,2 @@
-print("Hola Git desde Python!") 
+print("Hola GitHub, ahora sí estoy conectado!")
+
